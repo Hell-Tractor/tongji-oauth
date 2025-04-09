@@ -1,7 +1,11 @@
 [package]
 name = "tongji-oauth"
+description="An SDK used for login into Tongji University's authentication system."
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/Hell-Tractor/tongji-oauth"
+readme="README.md"
 
 [dependencies]
 base64 = "0.22.1"
